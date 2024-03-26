@@ -1,0 +1,17 @@
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/bin/Debug/net8.0/Colorful.Console.dll
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CopyComplete
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/maksym/projects/school/mtrpz/lab2/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
