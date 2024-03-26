@@ -24,7 +24,7 @@ while (true)
 
     string computerChoiceString = moves[computerChoice];
 
-    Console.WriteLine($"Computer chose: {computerChoiceString}", Color.Yellow);
+    Console.WriteLine($"Computer chose: {computerChoiceString}", Color.Blue);
 
     if (userChoice == computerChoice)
     {
